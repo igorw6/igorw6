@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @igorw6
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+igorw6/igorw6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+hello I'm looking for a person who helped me to enter the world of programming, create the opportunity to create or to Instagram. social media,
+I am an amateur, and for me, 
+the easiest way to download such an Instagram project and convert it to your own, is it possible? please reply, I will be grateful for any info
